@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9756781358351f03410a98ec3584cd731589c282"
+hash = "96bcc176ae8295cbfcdaeb26f7cd09d18a7dc45824e4d3d8f1106d2f2643380e"
 url = "https://www.curseforge.com/minecraft/mc-mods/almost-unify-everything/download/5829724"
