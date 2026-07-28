@@ -1,8 +1,0 @@
-name = "Almost Unify Everything"
-filename = "unifyeverything-1.20.1-1.0.2.9.jar"
-side = "both"
-
-[download]
-hash-format = "sha1"
-hash = "73886A820B8736DD828BD5E871D2E2C149B19EB67750F84590D1F0134C425AC7"
-url = "https://www.curseforge.com/minecraft/mc-mods/almost-unify-everything/download/5829724"

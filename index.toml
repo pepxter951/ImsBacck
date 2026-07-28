@@ -21,6 +21,10 @@ hash = "d5bbf1d80ecd2261d38311b897469fdd2dd48029bc520193bfefbc4407f5cc81"
 metafile = true
 
 [[files]]
+file = "mods/DynamicTreesPMMO-1.20.1-1.4.jar"
+hash = "723a3ea5ccf2b3d995935587e9c68c9fb2a474edeb25c0557e8ec76e0456fb48"
+
+[[files]]
 file = "mods/advanced-chimneys.pw.toml"
 hash = "c912146d06f22c4e76b712f742dc3c78cd319581a946cfa4d57a74a1d0579b68"
 metafile = true
@@ -33,11 +37,6 @@ metafile = true
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
-metafile = true
-
-[[files]]
-file = "mods/almost-unify-everything.pw.toml"
-hash = "73886A820B8736DD828BD5E871D2E2C149B19EB67750F84590D1F0134C425AC7"
 metafile = true
 
 [[files]]
@@ -211,11 +210,6 @@ hash = "71388fcd332ae63665aee5ff9234343cafe0dcf4bc998d3c69acf67e9993a2f9"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-trees-project-mmo-compat.pw.toml"
-hash = "9c0bd02bf8037c31921af6f7e254f7403e921689bd9eb91e5d4121694c8369e3"
-metafile = true
-
-[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "b299c3a87b88255dcdc93723d729dac99709d39fdaeecb81396b8788e9b4569b"
 metafile = true
@@ -271,9 +265,8 @@ hash = "fbb371c2bb573d6d84600f10937f535b7f19f7df6e536f25b7b4e46471c32904"
 metafile = true
 
 [[files]]
-file = "mods/immersive-snow.pw.toml"
-hash = "b3d5281de05b55aed0aa0def6e75b79947efbaefbab56bdaebfa2e2948f7cb6c"
-metafile = true
+file = "mods/immersivesnow-1.20.1-1.3.2.jar"
+hash = "2ab189623c264dae3b45828d8c59d09923a7b0a9334702e452ea793ec3cb7b66"
 
 [[files]]
 file = "mods/in-control.pw.toml"
@@ -599,6 +592,10 @@ metafile = true
 file = "mods/trash-cans.pw.toml"
 hash = "13af80b2b1274ebea8a8afdd31340b98280ae70ae7a64061162d0b07e75e0929"
 metafile = true
+
+[[files]]
+file = "mods/unifyeverything-1.20.1-1.0.2.9.jar"
+hash = "73886a820b8736dd828bd5e871d2e2c149b19eb67750f84590d1f0134c425ac7"
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"

@@ -1,12 +1,12 @@
 name = "ImsBacck"
 author = "PepXter"
-version = "1.1"
+version = "1.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "828401e8da3acc0969c208f168c5c64b9db56f6c98b79c60b6f5a8f7d7926e03"
+hash = "bd81e128efcf3781cec36662ef6e66ffed75bbe8c5607014ecdad3737e2bb0a4"
 
 [versions]
 forge = "47.4.20"
