@@ -40,11 +40,6 @@ hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
 metafile = true
 
 [[files]]
-file = "mods/almost-unify-everything.pw.toml"
-hash = "be9cb0a91ecd3300fc4ea7c94671824e8dee5d255afef745fcf3c18cf0f2e046"
-metafile = true
-
-[[files]]
 file = "mods/almostunified.pw.toml"
 hash = "8e9376087852491eb52037279506fefc45e174303530630e8b8afa571b1bd697"
 metafile = true
@@ -235,11 +230,6 @@ hash = "71388fcd332ae63665aee5ff9234343cafe0dcf4bc998d3c69acf67e9993a2f9"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-trees-project-mmo-compat.pw.toml"
-hash = "9c0bd02bf8037c31921af6f7e254f7403e921689bd9eb91e5d4121694c8369e3"
-metafile = true
-
-[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "b299c3a87b88255dcdc93723d729dac99709d39fdaeecb81396b8788e9b4569b"
 metafile = true
@@ -295,11 +285,6 @@ hash = "fbb371c2bb573d6d84600f10937f535b7f19f7df6e536f25b7b4e46471c32904"
 metafile = true
 
 [[files]]
-file = "mods/immersive-snow.pw.toml"
-hash = "b3d5281de05b55aed0aa0def6e75b79947efbaefbab56bdaebfa2e2948f7cb6c"
-metafile = true
-
-[[files]]
 file = "mods/immersivesnow-1.20.1-1.3.2.jar"
 hash = "2ab189623c264dae3b45828d8c59d09923a7b0a9334702e452ea793ec3cb7b66"
 
@@ -341,16 +326,6 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "664a573384edf644e9b788c7c29fe32593917ac8283bb794cc46b471a0a6504a"
-metafile = true
-
-[[files]]
-file = "mods/lan-server-properties.pw.toml"
-hash = "a2b382c275c6659575d30a822634ed4dd7decab14293df02c09e9ae5fa12bf63"
-metafile = true
-
-[[files]]
-file = "mods/login-protection.pw.toml"
-hash = "db329a5071fe8f88fd4cf249949470d4ad5b848182b184396976e46b5c6a3562"
 metafile = true
 
 [[files]]
@@ -544,11 +519,6 @@ hash = "ee2d9154be68ef20293596a3f65810111fd35a802f1e8292e9ba8872de463a14"
 metafile = true
 
 [[files]]
-file = "mods/storage-drawers.pw.toml"
-hash = "371b68e257eaca322ca4e95f4aa8d95441d84110b69243dda818f743a0111ba5"
-metafile = true
-
-[[files]]
 file = "mods/structurize.pw.toml"
 hash = "f3e28999ec3aa4973621ebd2ba2bf7f1af0a50f950ffe545444c7ebad54c5921"
 metafile = true
@@ -576,11 +546,6 @@ metafile = true
 [[files]]
 file = "mods/the-roads-more-travelled.pw.toml"
 hash = "5d4c1ecdc79bdee796ec8880c95d311ef4a0a6a81e672aabf305a5d88f82b60d"
-metafile = true
-
-[[files]]
-file = "mods/the-twilight-forest.pw.toml"
-hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
 metafile = true
 
 [[files]]
@@ -650,11 +615,6 @@ hash = "73886a820b8736dd828bd5e871d2e2c149b19eb67750f84590d1f0134c425ac7"
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "57d69a930e8272c52bed5f54d2d645e6e3e7eab14435901a5c70dbb4af4005a4"
-metafile = true
-
-[[files]]
-file = "mods/worldedit.pw.toml"
-hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
 
 [[files]]
