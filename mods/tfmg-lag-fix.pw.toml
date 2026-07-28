@@ -1,0 +1,13 @@
+name = "Create: The Factory Must Grow Lag Fix (TFMG)"
+filename = "tfmg_patch.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6dbe5aa3f5f934b4be22904c905d9a5357f96acb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8007822
+project-id = 1456944
