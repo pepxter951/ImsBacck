@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unify-everything.pw.toml"
-hash = "be9cb0a91ecd3300fc4ea7c94671824e8dee5d255afef745fcf3c18cf0f2e046"
+hash = "f9bcae3052f207789841d24795f2185041412869a905b0e34562ca878e158fd8"
 metafile = true
 
 [[files]]
