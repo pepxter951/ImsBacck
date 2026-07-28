@@ -20,11 +20,6 @@ hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
 metafile = true
 
 [[files]]
-file = "mods/almost-unify-everything.pw.toml"
-hash = "be9cb0a91ecd3300fc4ea7c94671824e8dee5d255afef745fcf3c18cf0f2e046"
-metafile = true
-
-[[files]]
 file = "mods/almostunified.pw.toml"
 hash = "8e9376087852491eb52037279506fefc45e174303530630e8b8afa571b1bd697"
 metafile = true
@@ -215,11 +210,6 @@ hash = "71388fcd332ae63665aee5ff9234343cafe0dcf4bc998d3c69acf67e9993a2f9"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-trees-project-mmo-compat.pw.toml"
-hash = "9c0bd02bf8037c31921af6f7e254f7403e921689bd9eb91e5d4121694c8369e3"
-metafile = true
-
-[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "b299c3a87b88255dcdc93723d729dac99709d39fdaeecb81396b8788e9b4569b"
 metafile = true
@@ -272,11 +262,6 @@ metafile = true
 [[files]]
 file = "mods/hourglass.pw.toml"
 hash = "fbb371c2bb573d6d84600f10937f535b7f19f7df6e536f25b7b4e46471c32904"
-metafile = true
-
-[[files]]
-file = "mods/immersive-snow.pw.toml"
-hash = "b3d5281de05b55aed0aa0def6e75b79947efbaefbab56bdaebfa2e2948f7cb6c"
 metafile = true
 
 [[files]]
