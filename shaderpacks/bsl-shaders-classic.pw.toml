@@ -1,0 +1,13 @@
+name = "BSL Shaders - Classic"
+filename = "BSLClassic_v8.4.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ad3fce3da8e245db2d8d4b1409e9b6b6fada6763"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5905132
+project-id = 1085570
