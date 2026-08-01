@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/forgeendertech/Biomes/minecraft$savanna.cfg"
-hash = "849bc0857e02d7102f657b647b577db09a2c9edeaeb3b3b4db0d3a4954a5af30"
-
-[[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "cc7b7524a1409711280d59e9af31b93d161cb654981abb0b2ea945111734fd3d"
 
@@ -111,10 +107,6 @@ hash = "eabe28ddac2199f5214206746cf61a607988105a7baabde195d9c38f71db78ac"
 [[files]]
 file = "config/ftbquests/quests/reward_tables/titanium.snbt"
 hash = "f299e4a0caf1c1278462827f3ed1fd111ce647b58d0ef39500831acf7ccefa41"
-
-[[files]]
-file = "config/jei/world/local/testgen2/lookupHistory.ini"
-hash = "e6af24b2ccbe32348705248abe57f0cbe41c138382d8f4813ec49c8572e47a37"
 
 [[files]]
 file = "mods/DynamicTreesPMMO-1.20.1-1.4.jar"
