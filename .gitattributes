@@ -1,1 +1,3 @@
-*.txt -text
+*.cfg   -text
+*.snbt  -text
+*.txt   -text

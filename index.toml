@@ -117,14 +117,6 @@ file = "config/jei/world/local/testgen2/lookupHistory.ini"
 hash = "e6af24b2ccbe32348705248abe57f0cbe41c138382d8f4813ec49c8572e47a37"
 
 [[files]]
-file = "main.py"
-hash = "9ff5f32a9c4e672b247e9e29e1b942ff66b607f284e52d18289eb73081cdc7d0"
-
-[[files]]
-file = "main2.py"
-hash = "9ab81efe289b600ffc4c1fb652227993a8564d51f9512f4a5ddb7399e9e0baed"
-
-[[files]]
 file = "mods/DynamicTreesPMMO-1.20.1-1.4.jar"
 hash = "723a3ea5ccf2b3d995935587e9c68c9fb2a474edeb25c0557e8ec76e0456fb48"
 
@@ -739,10 +731,6 @@ hash = "12bc1d705539867e63083970da8862b2461efa0ada940043042e141886dce704"
 file = "resourcepacks/c418-songs-only.pw.toml"
 hash = "c4ebeeb262f43c2d98164eec4f91a0175c5184688e9dec6c139232114bd25c8f"
 metafile = true
-
-[[files]]
-file = "run.bat"
-hash = "81a75041fd3315c1cdb435c109b6b1e92dc7faa18462294cbb33018e0ce3258b"
 
 [[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
