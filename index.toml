@@ -1,31 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "bliss-shader.pw.toml"
-hash = "f27ca42de7b92a90cf387dbed38bbdb33013201a7cf5b2723a9830b3120634e0"
-metafile = true
-
-[[files]]
-file = "bsl-shaders-classic.pw.toml"
-hash = "a2622dfbad14421dcc7b36b8bb687723da7adc6c7b814e57cc95524ff241351f"
-metafile = true
-
-[[files]]
-file = "bsl-shaders.pw.toml"
-hash = "c384d1c117331920a44021339b534c9129286b78ccdf54cda7a41a3ce75529e4"
-metafile = true
-
-[[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "335d3e0f28b42381f929c9997dd188cd656178904833c2d1b01dfd3e098b0569"
-metafile = true
-
-[[files]]
-file = "complementary-unbound.pw.toml"
-hash = "d5bbf1d80ecd2261d38311b897469fdd2dd48029bc520193bfefbc4407f5cc81"
-metafile = true
-
-[[files]]
 file = "config/forgeendertech/Biomes/minecraft$savanna.cfg"
 hash = "849bc0857e02d7102f657b647b577db09a2c9edeaeb3b3b4db0d3a4954a5af30"
 
@@ -147,7 +122,7 @@ hash = "9ff5f32a9c4e672b247e9e29e1b942ff66b607f284e52d18289eb73081cdc7d0"
 
 [[files]]
 file = "main2.py"
-hash = "73ce425b8bb1157d469392541a36e10a10c6bb8ab79e85948a3205fe2a75698c"
+hash = "9ab81efe289b600ffc4c1fb652227993a8564d51f9512f4a5ddb7399e9e0baed"
 
 [[files]]
 file = "mods/DynamicTreesPMMO-1.20.1-1.4.jar"
@@ -166,11 +141,6 @@ metafile = true
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
-metafile = true
-
-[[files]]
-file = "mods/almost-unify-everything.pw.toml"
-hash = "be9cb0a91ecd3300fc4ea7c94671824e8dee5d255afef745fcf3c18cf0f2e046"
 metafile = true
 
 [[files]]
@@ -369,11 +339,6 @@ hash = "3a4845166040ce2be2967b33371140b809b8d49889ba99f91da78e0228cd6f8e"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-trees-project-mmo-compat.pw.toml"
-hash = "9c0bd02bf8037c31921af6f7e254f7403e921689bd9eb91e5d4121694c8369e3"
-metafile = true
-
-[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "b299c3a87b88255dcdc93723d729dac99709d39fdaeecb81396b8788e9b4569b"
 metafile = true
@@ -446,11 +411,6 @@ metafile = true
 [[files]]
 file = "mods/hourglass.pw.toml"
 hash = "fbb371c2bb573d6d84600f10937f535b7f19f7df6e536f25b7b4e46471c32904"
-metafile = true
-
-[[files]]
-file = "mods/immersive-snow.pw.toml"
-hash = "b3d5281de05b55aed0aa0def6e75b79947efbaefbab56bdaebfa2e2948f7cb6c"
 metafile = true
 
 [[files]]
@@ -769,11 +729,6 @@ metafile = true
 [[files]]
 file = "mods/zombie-awareness.pw.toml"
 hash = "081b32c88849a82d01a3a98871b9860f395822179747d65812e86e9098e9cc61"
-metafile = true
-
-[[files]]
-file = "photon-shader.pw.toml"
-hash = "ac478481f65646015b7d4a3b9a3ef54a8208dee5b6cf5383f68dc3de86f8324f"
 metafile = true
 
 [[files]]
