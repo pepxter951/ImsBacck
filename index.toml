@@ -238,6 +238,11 @@ hash = "506b81a87662e6021945b36bca97f86ace01a3bef3fe925da47b5ee74fd6810b"
 metafile = true
 
 [[files]]
+file = "mods/corail-recycler.pw.toml"
+hash = "08dbdc1b9209e81b7dbaff78536003269e99ace900e9c7c6b3182014811e2063"
+metafile = true
+
+[[files]]
 file = "mods/corail-tombstone.pw.toml"
 hash = "17dd1533cc14ed5b0eeca234ea6b14a6677ba6b1330c29d507d58dffbd1acb6f"
 metafile = true
@@ -325,6 +330,11 @@ metafile = true
 [[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "b299c3a87b88255dcdc93723d729dac99709d39fdaeecb81396b8788e9b4569b"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "546a2e07dfe2ef19c83779b3a4123d49fa83d803a2873cb1d0d946bbb25b88ea"
 metafile = true
 
 [[files]]
@@ -756,4 +766,4 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/photon_v1.3b.zip.txt"
-hash = "81da5bab5e5ae7a785d3a738d9be166422b6d9d07da81f6c0d1c5e3e9a6395e9"
+hash = "5aa9d574de22762a2869dd95fe941df00d16a8c005c2663272d292f082591dcd"
