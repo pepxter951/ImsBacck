@@ -109,6 +109,10 @@ file = "config/ftbquests/quests/reward_tables/titanium.snbt"
 hash = "f299e4a0caf1c1278462827f3ed1fd111ce647b58d0ef39500831acf7ccefa41"
 
 [[files]]
+file = "config/ftbquesttransl-client.toml"
+hash = "9b90932928204d087e1698885d886c3265afd07f33d703c99cc50e2e3084b095"
+
+[[files]]
 file = "mods/DynamicTreesPMMO-1.20.1-1.4.jar"
 hash = "723a3ea5ccf2b3d995935587e9c68c9fb2a474edeb25c0557e8ec76e0456fb48"
 
@@ -253,6 +257,11 @@ hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
 metafile = true
 
 [[files]]
+file = "mods/crafting-station-jei-edition-updated.pw.toml"
+hash = "3a03762a42dc7257b339b1a051516cb0eab793e213dbd70a2f8ca61007732a45"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "3a1501153c752f350b079f0676ba4b2b610187d62f30f5910ef8d025a4af7de6"
 metafile = true
@@ -370,6 +379,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
 hash = "7b2cc450f553b82439ae9422b8c2b4406dae1af3c48f7ce791a3576acff1d122"
+metafile = true
+
+[[files]]
+file = "mods/ftb-quests-translator.pw.toml"
+hash = "1ee771d748bcf20cc83ae79ed31ab3d6078ac27052f583de2fda08817174e155"
 metafile = true
 
 [[files]]
@@ -766,4 +780,4 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/photon_v1.3b.zip.txt"
-hash = "5aa9d574de22762a2869dd95fe941df00d16a8c005c2663272d292f082591dcd"
+hash = "d3c909aff73f44a7571e45c5565b853dae166016d8e94acf332f07363a6d1339"
