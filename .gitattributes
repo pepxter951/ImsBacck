@@ -1,3 +1,4 @@
 *.cfg   -text
 *.snbt  -text
 *.txt   -text
+*.toml	-text
