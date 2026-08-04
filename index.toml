@@ -109,10 +109,6 @@ file = "config/ftbquests/quests/reward_tables/titanium.snbt"
 hash = "f299e4a0caf1c1278462827f3ed1fd111ce647b58d0ef39500831acf7ccefa41"
 
 [[files]]
-file = "config/ftbquesttransl-client.toml"
-hash = "9b90932928204d087e1698885d886c3265afd07f33d703c99cc50e2e3084b095"
-
-[[files]]
 file = "mods/DynamicTreesPMMO-1.20.1-1.4.jar"
 hash = "723a3ea5ccf2b3d995935587e9c68c9fb2a474edeb25c0557e8ec76e0456fb48"
 
