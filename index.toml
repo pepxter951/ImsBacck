@@ -238,11 +238,6 @@ hash = "506b81a87662e6021945b36bca97f86ace01a3bef3fe925da47b5ee74fd6810b"
 metafile = true
 
 [[files]]
-file = "mods/corail-recycler.pw.toml"
-hash = "08dbdc1b9209e81b7dbaff78536003269e99ace900e9c7c6b3182014811e2063"
-metafile = true
-
-[[files]]
 file = "mods/corail-tombstone.pw.toml"
 hash = "17dd1533cc14ed5b0eeca234ea6b14a6677ba6b1330c29d507d58dffbd1acb6f"
 metafile = true
@@ -776,4 +771,4 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/photon_v1.3b.zip.txt"
-hash = "d3c909aff73f44a7571e45c5565b853dae166016d8e94acf332f07363a6d1339"
+hash = "0e81cf13b65ef2201cce6ab07bf3397d474fa5340a9c07419df0335f03733f20"
