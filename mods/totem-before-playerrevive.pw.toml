@@ -1,0 +1,13 @@
+name = "Totem Before PlayerRevive"
+filename = "totembeforeplayerrevive-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "da86cc28a6d1082fbe1aadf3a394384f04837fdf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8252077
+project-id = 1576219

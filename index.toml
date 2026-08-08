@@ -173,6 +173,11 @@ hash = "eeadefc8a749eb41a2dabdcad2f2df697b2019829cd9664fe19e63368b874756"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "ddff810b39bb8873325aa34230c2a174073ad9bbf002e04a66835735550a1b7b"
+metafile = true
+
+[[files]]
 file = "mods/basic-nether-ores.pw.toml"
 hash = "e239e56d22b8aa28d989b091066ac0d33c5e180cc50c99da728cf7a805a3fc01"
 metafile = true
@@ -687,6 +692,10 @@ hash = "e8be245ed767270ec9abbdba7fe19b1c46fbf877fde14f3704d71b5baea11213"
 metafile = true
 
 [[files]]
+file = "mods/tombstone-1.20.1-9.1.3.jar"
+hash = "9ecfa6768aee0e4f344d866ae51809d34ca5bffcbf9b444b4239419751d259b8"
+
+[[files]]
 file = "mods/tool-belt.pw.toml"
 hash = "768ddf23e0ccae5788087cfbe107483e2d9408644400f5471c94433d00c22284"
 metafile = true
@@ -694,6 +703,11 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "51e82d9320effbd610ccfe4571c048c7d0f9c98362b9884faabfaa6f63aa9737"
+metafile = true
+
+[[files]]
+file = "mods/totem-before-playerrevive.pw.toml"
+hash = "1f7c3fc21f6d0825ad3a83af6544d4f5b67cb7252d6ccbab3c1907b779a005c1"
 metafile = true
 
 [[files]]
@@ -714,6 +728,11 @@ metafile = true
 [[files]]
 file = "mods/unifyeverything-1.20.1-1.0.2.9.jar"
 hash = "73886a820b8736dd828bd5e871d2e2c149b19eb67750f84590d1f0134c425ac7"
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "5ab6f2a4a50bd53506496d3da0c2c09d5a3ca363c3ebc7ca8641ecd3f7104365"
+metafile = true
 
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
@@ -766,4 +785,4 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/photon_v1.3b.zip.txt"
-hash = "0e81cf13b65ef2201cce6ab07bf3397d474fa5340a9c07419df0335f03733f20"
+hash = "3d5689bc129c676484058564993058004a5166d4f547c6acb6ab0ac8ab35ba25"
