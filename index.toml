@@ -173,6 +173,11 @@ hash = "eeadefc8a749eb41a2dabdcad2f2df697b2019829cd9664fe19e63368b874756"
 metafile = true
 
 [[files]]
+file = "mods/automatic-sorter.pw.toml"
+hash = "aae3ec897b1538947dd90d4694f0695e7d41814e125c1e2c1019d2a158aa5cf0"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "ddff810b39bb8873325aa34230c2a174073ad9bbf002e04a66835735550a1b7b"
 metafile = true
@@ -785,4 +790,4 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/photon_v1.3b.zip.txt"
-hash = "3d5689bc129c676484058564993058004a5166d4f547c6acb6ab0ac8ab35ba25"
+hash = "215088e61e865d294a344b37f98400aa82e0e7afb0fb856979b2f2187c08c778"
