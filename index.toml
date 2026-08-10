@@ -173,9 +173,8 @@ hash = "eeadefc8a749eb41a2dabdcad2f2df697b2019829cd9664fe19e63368b874756"
 metafile = true
 
 [[files]]
-file = "mods/automatic-sorter.pw.toml"
-hash = "aae3ec897b1538947dd90d4694f0695e7d41814e125c1e2c1019d2a158aa5cf0"
-metafile = true
+file = "mods/automaticsorter-1.3.0-1.20.1-forge.jar"
+hash = "8dd798ca1ce23014fae1e1e94e7b9060b017cfa1728471ac4cfeaabacbcc97dc"
 
 [[files]]
 file = "mods/balm.pw.toml"
@@ -415,6 +414,11 @@ metafile = true
 [[files]]
 file = "mods/hourglass.pw.toml"
 hash = "fbb371c2bb573d6d84600f10937f535b7f19f7df6e536f25b7b4e46471c32904"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "39398f1d161e96a6de60e9899184991d643323dde64b8f26072a1908269e9ff7"
 metafile = true
 
 [[files]]
@@ -759,6 +763,21 @@ hash = "c4ebeeb262f43c2d98164eec4f91a0175c5184688e9dec6c139232114bd25c8f"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fusion-3d-items.pw.toml"
+hash = "e43f0b9e7ac02b779d36594c526fe330fbc64ddd10c0c1896f922acd9a0766b0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-connected-blocks.pw.toml"
+hash = "942b34e75be36a1d29a84f5883ef900ef1d1fb93ea065bdc5877351f4334281b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-connected-glass.pw.toml"
+hash = "9558758e85c4d4e25da6c62d2381e24de2794f1307136ee9b4be98ed32baf6ad"
+metafile = true
+
+[[files]]
 file = "shaderpacks/bliss-shader.pw.toml"
 hash = "f27ca42de7b92a90cf387dbed38bbdb33013201a7cf5b2723a9830b3120634e0"
 metafile = true
@@ -790,4 +809,4 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/photon_v1.3b.zip.txt"
-hash = "215088e61e865d294a344b37f98400aa82e0e7afb0fb856979b2f2187c08c778"
+hash = "f28ed0bef6352c45d213b9f960faa60a51517f9ceaf00d500fdc14e85a14d320"
