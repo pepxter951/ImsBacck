@@ -173,8 +173,8 @@ hash = "eeadefc8a749eb41a2dabdcad2f2df697b2019829cd9664fe19e63368b874756"
 metafile = true
 
 [[files]]
-file = "mods/automaticsorter-1.3.0-1.20.1-forge.jar"
-hash = "8dd798ca1ce23014fae1e1e94e7b9060b017cfa1728471ac4cfeaabacbcc97dc"
+file = "mods/automaticsorter-1.3.2-1.20.1-forge.jar"
+hash = "da885ea484bad7f3418664fbaf40a3c4a8c029258de79e7a7d7928ad71b761fe"
 
 [[files]]
 file = "mods/balm.pw.toml"
