@@ -626,6 +626,10 @@ hash = "33d1f8465340427f98582f96361f44cd9c1f17b292fe0dd418fc08b78e677003"
 metafile = true
 
 [[files]]
+file = "mods/simpleonlineradio-4.8.jar"
+hash = "3ce23d64897b248866e74db4799fb7bdf941f44ed5b71ef02d8227cbc70b644d"
+
+[[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "e80b940cd9a3aa703d0462101e4a8f0840f69d969a202aaa1294816fc6bc64e7"
 metafile = true
@@ -682,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfmg-lag-fix.pw.toml"
-hash = "4d5b231463e765ed5c7045137a0a3b4ada0f603c34dec9a0f07b052661b0fff8"
+hash = "7085c2b189f4faffe9ca227655f2d67ab570ee6d6f0a6c9392fd4a35eb390ce4"
 metafile = true
 
 [[files]]
@@ -809,4 +813,4 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/photon_v1.3b.zip.txt"
-hash = "f28ed0bef6352c45d213b9f960faa60a51517f9ceaf00d500fdc14e85a14d320"
+hash = "46cb2f28d4aeb6f662b1e9f91929df785d91fcf0154ba2a3e7d78664f0ac626f"
