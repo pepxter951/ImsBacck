@@ -317,6 +317,11 @@ hash = "1d52e8d82a704af9a18b9dc649d8c93433e9ce2e223b20a5d4e885e83bba51b6"
 metafile = true
 
 [[files]]
+file = "mods/curios.pw.toml"
+hash = "55d77d596c2d805f28b47ea53725ccaa220d2857177cad3909e48d8c12b2a2cb"
+metafile = true
+
+[[files]]
 file = "mods/distant-horizons.pw.toml"
 hash = "14369a7bd08e135eeae52c3ed53dcd43d2ceb0ec7d803813a67a561f6abd15b7"
 metafile = true
@@ -813,4 +818,4 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/photon_v1.3b.zip.txt"
-hash = "46cb2f28d4aeb6f662b1e9f91929df785d91fcf0154ba2a3e7d78664f0ac626f"
+hash = "02027659c570a44080a592ae4248f6be85d5c77ac546b8ffe3200010e7aaef31"
