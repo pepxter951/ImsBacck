@@ -205,11 +205,6 @@ file = "mods/cc-tweaked-1.20.1-forge-1.120.2.jar"
 hash = "3eff8465261958c834b386152b6a76f4910be6bfa9e7dee9a7adc42120127a56"
 
 [[files]]
-file = "mods/cc-tweaked.pw.toml"
-hash = "6a63eb3839f33bf7c85298895fb1ce841e513eec78165a490b85bae95b02e619"
-metafile = true
-
-[[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "913bbc46f7ebbae12ee05efee5810b4c56a027336acc929951ee3bae1f084275"
 metafile = true
@@ -646,11 +641,6 @@ metafile = true
 [[files]]
 file = "mods/signpost.pw.toml"
 hash = "33d1f8465340427f98582f96361f44cd9c1f17b292fe0dd418fc08b78e677003"
-metafile = true
-
-[[files]]
-file = "mods/simple-online-radio.pw.toml"
-hash = "19473b7ce161b2afac6af25b17f64e0e2caa054864194cc34d924378287dbbf4"
 metafile = true
 
 [[files]]
