@@ -1,13 +1,13 @@
 name = "FTB Quests Translator"
-filename = "ftbquesttransl-1.20.1-forge-1.4.0.jar"
+filename = "ftbquesttransl-1.20.1-forge-1.3.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a440ddfe3dba283a7d885dc09a28bc9416b725a3"
+hash = "83c297e447bc38a0235e68dde0a15e07eeac2f3c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7977172
+file-id = 7944846
 project-id = 1504552

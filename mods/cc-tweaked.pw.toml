@@ -11,3 +11,6 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 5379173
 project-id = 282001
+
+[option]
+optional = true
