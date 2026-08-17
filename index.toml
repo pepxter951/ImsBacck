@@ -250,11 +250,6 @@ hash = "506b81a87662e6021945b36bca97f86ace01a3bef3fe925da47b5ee74fd6810b"
 metafile = true
 
 [[files]]
-file = "mods/corail-tombstone.pw.toml"
-hash = "a8aec311a17b15b5bbbb9aa663b5be34f01fa43945a2285e82fdc24958257ea3"
-metafile = true
-
-[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
 metafile = true
@@ -726,6 +721,10 @@ metafile = true
 file = "mods/titanium.pw.toml"
 hash = "e8be245ed767270ec9abbdba7fe19b1c46fbf877fde14f3704d71b5baea11213"
 metafile = true
+
+[[files]]
+file = "mods/tombstone-1.20.1-9.1.4.jar"
+hash = "6f818d334d847f60e98b49822fa3e1e258f698d3c60ff6bacbc79b0701127151"
 
 [[files]]
 file = "mods/tool-belt.pw.toml"
