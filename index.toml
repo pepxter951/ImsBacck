@@ -143,8 +143,8 @@ hash = "73c8f00ddae69b929cfdc313b808ce547e610b8336dbe54660b62d258c5e3a01"
 metafile = true
 
 [[files]]
-file = "mods/apiumradio-1.1.0-rf1.jar"
-hash = "613fae680ffebdbf6440a0269a6f34ea812b2fb977766340878e6cf8432e93f2"
+file = "mods/apiumradio-1.1.1-rf2.jar"
+hash = "d637f65c8d23b44ea106853732424f910c49fcd0bcacc7ce1f170420eb889d50"
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
