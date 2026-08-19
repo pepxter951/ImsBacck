@@ -143,7 +143,7 @@ hash = "73c8f00ddae69b929cfdc313b808ce547e610b8336dbe54660b62d258c5e3a01"
 metafile = true
 
 [[files]]
-file = "mods/apiumradio-1.1.1-rf2.jar"
+file = "mods/apiumradio-1.1.2-rf1.jar"
 hash = "d637f65c8d23b44ea106853732424f910c49fcd0bcacc7ce1f170420eb889d50"
 
 [[files]]
