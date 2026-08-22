@@ -475,11 +475,6 @@ hash = "606e38058a2913795ecebcd9b407a453d8fc24cfd3409a9eb431ff56e10bcfe8"
 metafile = true
 
 [[files]]
-file = "mods/hourglass.pw.toml"
-hash = "0d37bd78e8cc6427a92d01221a9af23d1710d783811b4bb9a9e88bf8d60f436b"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "88396b3f04853c2cab8b7932757a3020aa8b1d266e7ee69a2b208908d3a44ada"
 metafile = true
@@ -906,11 +901,6 @@ hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
 
 [[files]]
-file = "mods/zombie-awareness.pw.toml"
-hash = "7687cf1a2ba757798ede2e79c5f0c9354cb07030f75560449116db75c13c6f6f"
-metafile = true
-
-[[files]]
 file = "resourcepacks/Basic Nether Ores 32x.zip"
 hash = "12bc1d705539867e63083970da8862b2461efa0ada940043042e141886dce704"
 
@@ -966,4 +956,4 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/photon_v1.3b.zip.txt"
-hash = "1e9c1c06fbfca9a16bb44fd0f766f513bc835f9ac5c05bd7d933f0c7ead01407"
+hash = "f3e84a416e6faec60981da5cd8e867d458a86c4271a5467b3c4da74cacba21be"
