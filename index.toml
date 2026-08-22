@@ -290,9 +290,8 @@ hash = "04f84cbd5fd5408dd66d8bf48b6dffaee55baecfb84220e5dda82f43a36c3d85"
 metafile = true
 
 [[files]]
-file = "mods/create-lights-controls.pw.toml"
-hash = "ee63768642a318333bfb8872b5f35b6a64d3e0ec5d7643ec50dd1718b7cf72c0"
-metafile = true
+file = "mods/create-lights-and-controls-1.20.1-2.2.0.jar"
+hash = "e3f337ba379d366ab11f87eae6e78bb3403db9df663dac6f6a8b5378afe4808d"
 
 [[files]]
 file = "mods/create-ore-excavation.pw.toml"
@@ -400,9 +399,8 @@ hash = "04f3a119bf1559573f19d6fa000802adde7430e96888b6bb6311161c9ea96255"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "37c8fd64e324fae219a25f9937dad68e2a88ab17a5cd8c3f09029a92afc47641"
-metafile = true
+file = "mods/entityculling-forge-1.10.5-mc1.20.1.jar"
+hash = "db0ee6aaf7e78d758885969e1d237e6efef07109195d4bb81fa06b304ddc12aa"
 
 [[files]]
 file = "mods/fast-leaf-decay.pw.toml"
@@ -644,9 +642,8 @@ hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
 metafile = true
 
 [[files]]
-file = "mods/ocuwheel-oculus-flywheel-compat.pw.toml"
-hash = "016e2e3822aaf8cdab66b2733834c308f0c0e140ffe090b5602dc979d403f54a"
-metafile = true
+file = "mods/ocuwheel-forge-1.20.1-1.0.0.jar"
+hash = "389bf8c531a5c9396056f6022cce95f786dcfff4a0af9fa3483541e2284846e3"
 
 [[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
