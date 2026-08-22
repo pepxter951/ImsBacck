@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/apiumradio-1.1.2-rf1.jar"
-hash = "d637f65c8d23b44ea106853732424f910c49fcd0bcacc7ce1f170420eb889d50"
+hash = "18c9762ca4c7d86db8a30f1173bc9d050f173defb2cfdb8ac52852b9d630c919"
 
 [[files]]
 file = "mods/apotheosis.pw.toml"
@@ -215,6 +215,11 @@ hash = "0e264c3d0ba3d35783ed9cf625de56bb9605b610c0c97b4ca24d1c337c1f60c0"
 metafile = true
 
 [[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "7d3fded0a343b2953e2a77fd1d2ed7abc547d7008f5b1b842546f28b8df1b802"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "5a4b03567f23fe0aac7806bd7cc9734138bf5fc098e98c1bb552d5b288bef258"
 metafile = true
@@ -250,6 +255,11 @@ hash = "506b81a87662e6021945b36bca97f86ace01a3bef3fe925da47b5ee74fd6810b"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "74aeec9534ce02a06fdfe3c04d60f944eead173967dc88ac0592f96c7f8a0119"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
 metafile = true
@@ -277,6 +287,11 @@ metafile = true
 [[files]]
 file = "mods/create-industry.pw.toml"
 hash = "04f84cbd5fd5408dd66d8bf48b6dffaee55baecfb84220e5dda82f43a36c3d85"
+metafile = true
+
+[[files]]
+file = "mods/create-lights-controls.pw.toml"
+hash = "ee63768642a318333bfb8872b5f35b6a64d3e0ec5d7643ec50dd1718b7cf72c0"
 metafile = true
 
 [[files]]
@@ -345,8 +360,23 @@ hash = "3a4845166040ce2be2967b33371140b809b8d49889ba99f91da78e0228cd6f8e"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-trees-bwg.pw.toml"
+hash = "407f8fd11806f69441dee528b5a5f52fe84f064fe3667ee954c10ec5bd6dc233"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trees-the-twilight-forest.pw.toml"
+hash = "fbd9628f2ed4f16ed992894279c280c10c5fc9bb5b80b72a62be8edf1d5f9eea"
+metafile = true
+
+[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "b299c3a87b88255dcdc93723d729dac99709d39fdaeecb81396b8788e9b4569b"
+metafile = true
+
+[[files]]
+file = "mods/dynamictreesplus.pw.toml"
+hash = "98c15eb4d6cfa12d33522d584fa077c038a8997e1bb50992f64ef438994f38b0"
 metafile = true
 
 [[files]]
@@ -365,8 +395,23 @@ hash = "7067864fca90bb1ef749a8c1379365b9072954d7a677649a54d00a45d411c928"
 metafile = true
 
 [[files]]
+file = "mods/ends-phantasm-nullnites-echo.pw.toml"
+hash = "04f3a119bf1559573f19d6fa000802adde7430e96888b6bb6311161c9ea96255"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "37c8fd64e324fae219a25f9937dad68e2a88ab17a5cd8c3f09029a92afc47641"
+metafile = true
+
+[[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "fd5aa059dd7e148e9ce801455b438425c0ad36537ce4b635edeb524900b15284"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
 
 [[files]]
@@ -405,6 +450,11 @@ hash = "51bf22aaadbfdb6f8dd85b90b027a559767d919a4215adeb0f308aaa76038bdc"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "898fd2704dd260ae8f3dc20b4416439751f0a9e76367c4f0bbdac886b6987802"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "c46659c3e873e0ca121f5215991ae8bc989132a3fea0c2da9eed0f22a947b2b9"
 metafile = true
@@ -422,6 +472,16 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "606e38058a2913795ecebcd9b407a453d8fc24cfd3409a9eb431ff56e10bcfe8"
+metafile = true
+
+[[files]]
+file = "mods/hourglass.pw.toml"
+hash = "0d37bd78e8cc6427a92d01221a9af23d1710d783811b4bb9a9e88bf8d60f436b"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "88396b3f04853c2cab8b7932757a3020aa8b1d266e7ee69a2b208908d3a44ada"
 metafile = true
 
 [[files]]
@@ -489,6 +549,11 @@ hash = "ed086cdfde6ba4bb175468a76f3df3b9517aea3fe95b09bed0f1fa70f7caeb6a"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "1d623ba29fcb52d5db733af383a13273792ac3dc1ac7a8f9e3f58a17ae1bc2c7"
+metafile = true
+
+[[files]]
 file = "mods/loot-integrations.pw.toml"
 hash = "41a036a86db9c0cab20b9b8956b0749bdfea13942d6ca00668304e5d0731166f"
 metafile = true
@@ -544,6 +609,26 @@ hash = "a028f206ca03f63234e4acb2033e9bffcd927db5037a20ecc8008ec50a25d59e"
 metafile = true
 
 [[files]]
+file = "mods/mns-moogs-nether-structures.pw.toml"
+hash = "97558d7942992d09a861960cd7c9153cb44044d5b6c9982342c8cf7f853ad4bd"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "c7ffa2d9d6ffe6cc471e293baece3e8543ee3cadd7acf2c0c2c9bef0dc876a56"
+metafile = true
+
+[[files]]
+file = "mods/moogs-end-structures.pw.toml"
+hash = "f9df784cfaa44ed69247cc3ec37dcea87ad8a3f5bf01decb55f0ce47ae7b870e"
+metafile = true
+
+[[files]]
+file = "mods/moogs-structure-lib.pw.toml"
+hash = "af659a3218930401f55d4c66aaff2c3343bf3dc9788afd011bbfa66995405bc4"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
@@ -554,8 +639,28 @@ hash = "680583e1e6c2b4aa4251b25f4887d7e865dfa889268052c498ef152dedee812a"
 metafile = true
 
 [[files]]
+file = "mods/nether-descent.pw.toml"
+hash = "0a07d239f1682b33ee36557b8c9bbb92419c26e3330b2eb5e635e824dff9915c"
+metafile = true
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
+metafile = true
+
+[[files]]
+file = "mods/ocuwheel-oculus-flywheel-compat.pw.toml"
+hash = "016e2e3822aaf8cdab66b2733834c308f0c0e140ffe090b5602dc979d403f54a"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-weve-gone.pw.toml"
+hash = "a85df37d5c0afc3b2fdae7e43b7bf145d0ef06de6a55fd223901f09fbc514ccc"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-trees-youll-grow.pw.toml"
+hash = "01905832e0cbe05983fb45fd2f353dbf8fbf9b4a27a867e8bc731c0f52090260"
 metafile = true
 
 [[files]]
@@ -566,6 +671,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "b2cb681aaf3e6085148392a06d40899239dc299aaf5ce0adf168fc225d922c97"
+metafile = true
+
+[[files]]
+file = "mods/phantasm.pw.toml"
+hash = "438b714a5d32476fe4958d18067999affa297aefd460646dbd81ad968b90a4f4"
 metafile = true
 
 [[files]]
@@ -581,6 +691,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
 metafile = true
 
 [[files]]
@@ -698,6 +813,16 @@ hash = "7adb02fa7411086a044beef24b2252f723c84dbff37689d1daab1d330db7a796"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "a01449c29314bff0ad2047911d8253641801e01997709f53fa5b3f52954232a3"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "fde3d3b1607636100e382dce1bba80ab4608ebfa1ef888a37b86bc8c7dcbafe5"
+metafile = true
+
+[[files]]
 file = "mods/tfmg-lag-fix.pw.toml"
 hash = "7085c2b189f4faffe9ca227655f2d67ab570ee6d6f0a6c9392fd4a35eb390ce4"
 metafile = true
@@ -710,6 +835,11 @@ metafile = true
 [[files]]
 file = "mods/the-roads-more-travelled.pw.toml"
 hash = "5d4c1ecdc79bdee796ec8880c95d311ef4a0a6a81e672aabf305a5d88f82b60d"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
 metafile = true
 
 [[files]]
@@ -766,8 +896,18 @@ hash = "57d69a930e8272c52bed5f54d2d645e6e3e7eab14435901a5c70dbb4af4005a4"
 metafile = true
 
 [[files]]
+file = "mods/wirelessredstone.pw.toml"
+hash = "b332ca4c511300c3104179b2b16a6b35f794312f126487352e80a062da939958"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+metafile = true
+
+[[files]]
 file = "mods/zombie-awareness.pw.toml"
-hash = "081b32c88849a82d01a3a98871b9860f395822179747d65812e86e9098e9cc61"
+hash = "7687cf1a2ba757798ede2e79c5f0c9354cb07030f75560449116db75c13c6f6f"
 metafile = true
 
 [[files]]
@@ -826,4 +966,4 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/photon_v1.3b.zip.txt"
-hash = "d6e9c65391d3f71bc1bac548bba6955d280b037f25aa681878715388debf0bf6"
+hash = "1e9c1c06fbfca9a16bb44fd0f766f513bc835f9ac5c05bd7d933f0c7ead01407"

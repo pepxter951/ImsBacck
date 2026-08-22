@@ -1,0 +1,13 @@
+name = "End's Phantasm: Nullnite's Echo"
+filename = "nullnite_echo-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bac7a627ec6663e8cbb285343e8d28a0496ff0cd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6609002
+project-id = 1089481
