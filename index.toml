@@ -198,7 +198,7 @@ hash = "da885ea484bad7f3418664fbaf40a3c4a8c029258de79e7a7d7928ad71b761fe"
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "ddff810b39bb8873325aa34230c2a174073ad9bbf002e04a66835735550a1b7b"
+hash = "f18220cf1209a410821c742e9e5ee3fa54bebaf07db340557990a4b20664a357"
 metafile = true
 
 [[files]]
@@ -209,6 +209,11 @@ metafile = true
 [[files]]
 file = "mods/blockui.pw.toml"
 hash = "38387bbdfcd685324d94d2180739aa54f01cced2b4febaa146b2620f8ff7886e"
+metafile = true
+
+[[files]]
+file = "mods/brutal-bosses-dungeon.pw.toml"
+hash = "3cb4af19e3be751330bc3b8123e1268553ca1837676732d58e468dcabcfe5835"
 metafile = true
 
 [[files]]
@@ -282,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafting-station-jei-edition-updated.pw.toml"
-hash = "3a03762a42dc7257b339b1a051516cb0eab793e213dbd70a2f8ca61007732a45"
+hash = "1217be571b2d46b8a8736b8a72dae79408714b2347f6a7ba9ca6a86b8b808e5e"
 metafile = true
 
 [[files]]
@@ -367,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "71388fcd332ae63665aee5ff9234343cafe0dcf4bc998d3c69acf67e9993a2f9"
+metafile = true
+
+[[files]]
+file = "mods/dungeon-and-taverns.pw.toml"
+hash = "a1a8bc2e5625917e45cdf2360dfaeff24447b261579e8220d1e4748852c30e48"
 metafile = true
 
 [[files]]
@@ -495,7 +505,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "39398f1d161e96a6de60e9899184991d643323dde64b8f26072a1908269e9ff7"
+hash = "e410d61a7906f69a6d617ec8c05b92bf0139a537a44d6664a6516c8a19ad6e77"
 metafile = true
 
 [[files]]
@@ -529,7 +539,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "562d4d48069a238a8100b277a5961f241ab04b175b5d7ab0a69da153164f16bc"
+hash = "230dcd8cb848fab50f30604178f760e16bcd4343497f3207eb7b3415f5cc9272"
 metafile = true
 
 [[files]]
@@ -782,12 +792,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "f4bba6d744913e312eac9dd005fcecd9585c28700c077bb9d454c09c4deadffd"
+hash = "cfb0764ead0cc94a7d4e23aaf061f4c4a497fc09c85fa54a51d5d4e05940d87e"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "01259e2ead25936e821fd4c951f742adee3039fef4f0a9dd80b1e9272497633d"
+hash = "161e11d3d81652206236f91256e0189c20b2193ab046e4a90358f84036f11ca6"
 metafile = true
 
 [[files]]
@@ -803,6 +813,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "ee2d9154be68ef20293596a3f65810111fd35a802f1e8292e9ba8872de463a14"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "6b69e51eb0e7291e22075e0e7ec48bb0dbb362fa2d206fb053ee6b490a94e223"
 metafile = true
 
 [[files]]
@@ -837,7 +852,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-one-probe.pw.toml"
-hash = "97063e6b0b10ed95e42c1d4954ab577f8d6e94a79c0a8a93206b35475dce1460"
+hash = "14fae398a2c37d3ff4c37058a4841449b4275071fa31ebb416a7a5d4986a6dbf"
 metafile = true
 
 [[files]]
@@ -895,7 +910,7 @@ hash = "73886a820b8736dd828bd5e871d2e2c149b19eb67750f84590d1f0134c425ac7"
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "5ab6f2a4a50bd53506496d3da0c2c09d5a3ca363c3ebc7ca8641ecd3f7104365"
+hash = "4bbb339934e6c74bc6129359abe75464f4652defffa6ae28624fbc3d1916c614"
 metafile = true
 
 [[files]]
@@ -969,4 +984,4 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/photon_v1.3b.zip.txt"
-hash = "c62defb862552dd7ddd9bba98920dbfb4d74754bb135076270a2ec38fef58e63"
+hash = "d0940285b48800c2f0f7d93d2ad6f0bf66a3ba83f7d920e57b6cc14f0d7ed63f"
